@@ -14,7 +14,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2023-10-22"
+version: "2023-11-29"
 sort: by_weight
 ...
 # +_+
@@ -11060,7 +11060,7 @@ logic	logic
 logical	logical
 login	login
 logistics	logistics
-logitech	logitech
+Logitech	Logitech
 logo	logo
 logon	logon
 logos	logos
@@ -12414,7 +12414,7 @@ named	named
 namely	namely
 names	names
 namespace	namespace
-namibia	namibia
+Namibia	Namibia
 naming	naming
 nan	nan
 Nancy	Nancy
@@ -14196,7 +14196,7 @@ poison	poison
 poisoning	poisoning
 poisonous	poisonous
 poke	poke
-pokemon	pokemon
+Pokemon	Pokemon
 poker	poker
 # pol	pol
 Poland	Poland
@@ -17118,7 +17118,7 @@ sing	sing
 Singapore	Singapore
 singer	singer
 singers	singers
-singh	singh
+Singh	Singh
 singing	singing
 single	single
 singled	singled
@@ -20723,7 +20723,7 @@ Wolverhampton	Wolverhampton
 wolves	wolves
 woman	woman
 women	women
-womens	womens
+women's	women's
 won	won
 wonder	wonder
 wondered	wondered
